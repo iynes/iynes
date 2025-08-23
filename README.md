@@ -7,14 +7,14 @@
   </a>
 </h1>
 
-<h1 align="center">A Passionate Software Developer from India 🇮🇳</h1>
+<h1 align="center">They saw code as a future, I saw the sky as mine.</h1>
 
 <img align="right" width="320" src="assets/artemis-octocat.gif" alt="Artemis"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artemiskgg1&label=Profile%20views&color=0e2431&style=flat" alt="Artemis" /> </p>
 
-🔭 I’m currently working on **Rust & DotNet <3**
+🔭 I’m currently working on **Nest Js**
 
-🌱 Currently **pretending I know what's going on**
+🌱 Currently **unlearning what I was told**
 
 👯 I’m looking to collaborate on **Deep Learning Projects**
 
